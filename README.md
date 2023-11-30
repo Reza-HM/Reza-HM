@@ -25,7 +25,7 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### 🥇 Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=transparent)](https://github.com/reza-hm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/reza-hm/github-readme-stats)
 
 
 
