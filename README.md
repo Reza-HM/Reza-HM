@@ -32,58 +32,58 @@ I'm a passionate frontend developer with experience building responsive and user
 <details>
   <summary>:orange_heart: HTML</summary>
   
-  <img src="https://progress-bar.dev/100/?title=html&color=E34F26" alt="HTML progress bar" />
+  <img src="https://progress-bar.dev/100/?title=html&color=E34F26" alt="HTML progress bar" width="100%" />
 
 </details>
 <details>
   <summary>:blue_heart: CSS</summary>
 
-  <img src="https://progress-bar.dev/90/?title=css&color=1572B6" alt="CSS progress bar" />
+  <img src="https://progress-bar.dev/90/?title=css&color=1572B6" alt="CSS progress bar" width="100%" />
   
 </details>  
 
 <details>
   <summary>:art: Tailwind CSS</summary>
 
-  <img src="https://progress-bar.dev/100/?title=tailwindcss&color=38bdf8" alt="TailwindCSS progress bar" />  
+  <img src="https://progress-bar.dev/100/?title=tailwindcss&color=38bdf8" alt="TailwindCSS progress bar" width="100%" />  
 
 </details>
 <details>
   <summary>:purple_heart: BootStrap</summary>
 
-  <img src="https://progress-bar.dev/100/?title=bootstrap&color=7952B3" alt="BootStrap progress bar" />  
+  <img src="https://progress-bar.dev/100/?title=bootstrap&color=7952B3" alt="BootStrap progress bar" width="100%" />  
 
 </details>
 <details>
   <summary>:art: SASS</summary>
   
-  <img src="https://progress-bar.dev/60/?title=html&color=CC6699" alt="SASS progress bar" />
+  <img src="https://progress-bar.dev/60/?title=html&color=CC6699" alt="SASS progress bar" width="100%" />
 
 </details>
 <details>
   <summary>:zap: Javascript</summary>
 
-  <img src="https://progress-bar.dev/70/?title=javascript&color=yellow" alt="Javascript progress bar" />
+  <img src="https://progress-bar.dev/70/?title=javascript&color=yellow" alt="Javascript progress bar" width="100%" />
 
 </details>
 
 <details>
   <summary>:atom_symbol: React</summary>
   
-  <img src="https://progress-bar.dev/60/?title=react&color=61dafb" alt="React progress bar" />
+  <img src="https://progress-bar.dev/60/?title=react&color=61dafb" alt="React progress bar" width="100%" />
 
 </details>
 
 <details>
   <summary>:purple_heart: Redux</summary>
   
-  <img src="https://progress-bar.dev/40/?title=html&color=764ABC" alt="Redux progress bar" />
+  <img src="https://progress-bar.dev/40/?title=html&color=764ABC" alt="Redux progress bar" width="100%" />
 
 </details>
 <details>
   <summary>:rocket: Next JS</summary>
   
-  <img src="https://progress-bar.dev/50/?title=nextjs&color=000000" alt="NextJS progress bar" />
+  <img src="https://progress-bar.dev/50/?title=nextjs&color=000000" alt="NextJS progress bar" width="100%" />
 
 </details> 
 
