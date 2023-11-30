@@ -29,36 +29,35 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### ✌ My Skills
 
-### HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+### HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="20" height="20"> 
 ![HTML](https://progress-bar.dev/95/?title=Expert&color=E34F26)
 
-### CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+### CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="20" height="20">
 ![CSS](https://progress-bar.dev/90/?title=Expert&color=1572B6)
 
-### Tailwind CSS ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg)
+### Tailwind CSS <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg" alt="Tailwind CSS Logo" width="20" height="20">
 ![Tailwind CSS](https://progress-bar.dev/85/?title=Advanced&color=38B2AC)
 
-### Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+### Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="20" height="20">
 ![Bootstrap](https://progress-bar.dev/80/?title=Advanced&color=7952B3)
 
-### SASS ![SASS](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg)
+### SASS <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS Logo" width="20" height="20">
 ![SASS](https://progress-bar.dev/85/?title=Advanced&color=CC6699)
 
-### JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+### JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="20" height="20">
 ![JavaScript](https://progress-bar.dev/95/?title=Expert&color=F7DF1E)
 
-### React ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+### React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">
 ![React](https://progress-bar.dev/90/?title=Advanced&color=61DAFB)
 
-### Redux ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
+### Redux <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux Logo" width="20" height="20">
 ![Redux](https://progress-bar.dev/85/?title=Advanced&color=764ABC)
 
-### Next.js ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+### Next.js <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="20" height="20">
 ![Next.js](https://progress-bar.dev/80/?title=Intermediate&color=000000)
 
-### TypeScript ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
 ![TypeScript](https://progress-bar.dev/85/?title=Advanced&color=3178C6)
-
 
 ### 💼 Where to Find Me
 
