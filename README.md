@@ -1,5 +1,4 @@
-# Hi there 👋, I'm [Your Name] 
-
+# Hi there 👋, I'm Reza Hamzei
 ## 👨‍💻 Frontend Developer
 
 I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.  
