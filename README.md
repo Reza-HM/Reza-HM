@@ -35,7 +35,7 @@ I'm a passionate frontend developer with experience building responsive and user
 ### CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="20" height="20">
 ![CSS](https://progress-bar.dev/90/?title=Expert&color=1572B6)
 
-### Tailwind CSS <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg" alt="Tailwind CSS Logo" width="20" height="20">
+### Tailwind CSS <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" width="20" height="20">
 ![Tailwind CSS](https://progress-bar.dev/90/?title=Expert&color=38B2AC)
 
 ### Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="20" height="20">
@@ -53,11 +53,12 @@ I'm a passionate frontend developer with experience building responsive and user
 ### Redux <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux Logo" width="20" height="20">
 ![Redux](https://progress-bar.dev/40/?title=Developing&color=764ABC)
 
-### Next.js <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style={"backgroundColor": "white"} alt="Next.js Logo" width="20" height="20">
+### Next.js <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style="backgroundColor": "white" alt="Next.js Logo" width="20" height="20">
 ![Next.js](https://progress-bar.dev/50/?title=Developing&color=000000)
 
 ### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
 ![TypeScript](https://progress-bar.dev/50/?title=Developing&color=3178C6)
+
 ## 💼 Where to Find Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dazedandconfusedguy?igshid=OGQ5ZDc2ODk2ZA==)
