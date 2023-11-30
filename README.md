@@ -23,8 +23,8 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### 🥇 Top Languages Used and The Time Spent On Them
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie)](https://github.com/reza-hm/github-readme-stats)
-[![Reza-HM's WakaTime stats](https://github-readme-stats.vercel.app/api/reza-hm?username=ffflabs)](https://github.com/reza-hm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=transparent)](https://github.com/reza-hm/github-readme-stats)
+[![Reza-HM's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reza-hm)](https://github.com/reza-hm/github-readme-stats)
 
 ### 💼 Where to Find Me
 
