@@ -16,6 +16,12 @@ I'm a passionate frontend developer with experience building responsive and user
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+
+### 📊 Statistics of my account
+
+![Reza Hamzei's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=radical)
+
+
 ### 💼 Where to find me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dazedandconfusedguy?igshid=OGQ5ZDc2ODk2ZA==)
@@ -24,9 +30,6 @@ I'm a passionate frontend developer with experience building responsive and user
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reza-hm)
 
-### 📊 Statistics of my account
-
-![Reza Hamzei's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=radical)
 
 I'm always open to new opportunities!  
 
