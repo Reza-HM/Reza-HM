@@ -17,12 +17,16 @@ I'm a passionate frontend developer with experience building responsive and user
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-### 📊 Statistics of my account
+### 📊 Statistics of My Account
 
 ![Reza Hamzei's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=radical)
 
+### 🥇 Top Languages Used and The Time Spent On Them
 
-### 💼 Where to find me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie)](https://github.com/reza-hm/github-readme-stats)
+[![Reza-HM's WakaTime stats](https://github-readme-stats.vercel.app/api/reza-hm?username=ffflabs)](https://github.com/reza-hm/github-readme-stats)
+
+### 💼 Where to Find Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dazedandconfusedguy?igshid=OGQ5ZDc2ODk2ZA==)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/WithNoRegard\_?t=IZpJg77Ue3eBUJgmDsdFtg&s=09) 
