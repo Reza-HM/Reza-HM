@@ -27,7 +27,18 @@ I'm a passionate frontend developer with experience building responsive and user
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/reza-hm/github-readme-stats)
 
+### ✌ My Skills
 
+- HTML: 100% ![100%](https://progress-bar.dev/100?color=orange)
+- CSS: 90% ![90%](https://progress-bar.dev/90?color=blue)
+- JavaScript: 70% ![70%](https://progress-bar.dev/70?color=yellow)
+- Tailwind CSS: 100% ![100%](https://progress-bar.dev/100?color=navy)
+- SASS: 60% ![100%](https://progress-bar.dev/100?color=pink)
+- BootStrap: 100% ![100%](https://progress-bar.dev/100?color=purple)
+- React: 60% ![50%](https://progress-bar.dev/50?color=blue)
+- Redux: 40% ![50%](https://progress-bar.dev/50?color=purple)
+- Next.js: 50% ![50%](https://progress-bar.dev/50?color=black)
+- TypeScript: 50% ![50%](https://progress-bar.dev/50?color=blue)
 
 ### 💼 Where to Find Me
 
