@@ -29,73 +29,35 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### ✌ My Skills
 
-<details>
-  <summary>:orange_heart: HTML</summary>
-  
-  <img src="https://progress-bar.dev/100/?title=html&color=E34F26" alt="HTML progress bar" width="100%" />
+### HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![HTML](https://progress-bar.dev/95/?title=Expert&color=E34F26)
 
-</details>
-<details>
-  <summary>:blue_heart: CSS</summary>
+### CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![CSS](https://progress-bar.dev/90/?title=Expert&color=1572B6)
 
-  <img src="https://progress-bar.dev/90/?title=css&color=1572B6" alt="CSS progress bar" width="100%" />
-  
-</details>  
+### Tailwind CSS ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg)
+![Tailwind CSS](https://progress-bar.dev/85/?title=Advanced&color=38B2AC)
 
-<details>
-  <summary>:art: Tailwind CSS</summary>
+### Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+![Bootstrap](https://progress-bar.dev/80/?title=Advanced&color=7952B3)
 
-  <img src="https://progress-bar.dev/100/?title=tailwindcss&color=38bdf8" alt="TailwindCSS progress bar" width="100%" />  
+### SASS ![SASS](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg)
+![SASS](https://progress-bar.dev/85/?title=Advanced&color=CC6699)
 
-</details>
-<details>
-  <summary>:purple_heart: BootStrap</summary>
+### JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+![JavaScript](https://progress-bar.dev/95/?title=Expert&color=F7DF1E)
 
-  <img src="https://progress-bar.dev/100/?title=bootstrap&color=7952B3" alt="BootStrap progress bar" width="100%" />  
+### React ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![React](https://progress-bar.dev/90/?title=Advanced&color=61DAFB)
 
-</details>
-<details>
-  <summary>:art: SASS</summary>
-  
-  <img src="https://progress-bar.dev/60/?title=html&color=CC6699" alt="SASS progress bar" width="100%" />
+### Redux ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
+![Redux](https://progress-bar.dev/85/?title=Advanced&color=764ABC)
 
-</details>
-<details>
-  <summary>:zap: Javascript</summary>
+### Next.js ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+![Next.js](https://progress-bar.dev/80/?title=Intermediate&color=000000)
 
-  <img src="https://progress-bar.dev/70/?title=javascript&color=yellow" alt="Javascript progress bar" width="100%" />
-
-</details>
-
-<details>
-  <summary>:atom_symbol: React</summary>
-  
-  <img src="https://progress-bar.dev/60/?title=react&color=61dafb" alt="React progress bar" width="100%" />
-
-</details>
-
-<details>
-  <summary>:purple_heart: Redux</summary>
-  
-  <img src="https://progress-bar.dev/40/?title=html&color=764ABC" alt="Redux progress bar" width="100%" />
-
-</details>
-<details>
-  <summary>:rocket: Next JS</summary>
-  
-  <img src="https://progress-bar.dev/50/?title=nextjs&color=000000" alt="NextJS progress bar" width="100%" />
-
-</details> 
-
-
-
-
-<details>
-  <summary>:ocean: TypeScript</summary>
-  
-  <img src="https://progress-bar.dev/50/?title=html&color=3178C6" alt="TypeScript progress bar" />
-
-</details>
+### TypeScript ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+![TypeScript](https://progress-bar.dev/85/?title=Advanced&color=3178C6)
 
 
 ### 💼 Where to Find Me
