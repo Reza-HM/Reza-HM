@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Reza Hamzei
 ## 👨‍💻 Frontend Developer
 
-I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.\
+I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.
 
 
 ## 🧰 Languages & Tools
