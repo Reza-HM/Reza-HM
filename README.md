@@ -4,7 +4,7 @@
 I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.\
 
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,17 +17,17 @@ I'm a passionate frontend developer with experience building responsive and user
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 📊 Statistics of My Account
+## 📊 Statistics of My Account
 
 ![Reza-HM's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=tokyonight)
 
 
 
-### 🥇 Top Languages Used
+## 🥇 Top Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✌ My Skills
+## ✌ My Skills
 
 ### HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="20" height="20"> 
 ![HTML](https://progress-bar.dev/95/?title=Expert&color=E34F26)
@@ -59,7 +59,7 @@ I'm a passionate frontend developer with experience building responsive and user
 ### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
 ![TypeScript](https://progress-bar.dev/85/?title=Advanced&color=3178C6)
 
-### 💼 Where to Find Me
+## 💼 Where to Find Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dazedandconfusedguy?igshid=OGQ5ZDc2ODk2ZA==)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/WithNoRegard\_?t=IZpJg77Ue3eBUJgmDsdFtg&s=09) 
