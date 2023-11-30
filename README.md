@@ -36,28 +36,28 @@ I'm a passionate frontend developer with experience building responsive and user
 ![CSS](https://progress-bar.dev/90/?title=Expert&color=1572B6)
 
 ### Tailwind CSS <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg" alt="Tailwind CSS Logo" width="20" height="20">
-![Tailwind CSS](https://progress-bar.dev/85/?title=Advanced&color=38B2AC)
+![Tailwind CSS](https://progress-bar.dev/70/?title=Advanced&color=38B2AC)
 
 ### Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="20" height="20">
-![Bootstrap](https://progress-bar.dev/80/?title=Advanced&color=7952B3)
+![Bootstrap](https://progress-bar.dev/90/?title=Expert&color=7952B3)
 
 ### SASS <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS Logo" width="20" height="20">
-![SASS](https://progress-bar.dev/85/?title=Advanced&color=CC6699)
+![SASS](https://progress-bar.dev/70/?title=Advanced&color=CC6699)
 
 ### JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="20" height="20">
-![JavaScript](https://progress-bar.dev/95/?title=Expert&color=F7DF1E)
+![JavaScript](https://progress-bar.dev/70/?title=Advanced&color=F7DF1E)
 
 ### React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">
-![React](https://progress-bar.dev/90/?title=Advanced&color=61DAFB)
+![React](https://progress-bar.dev/60/?title=Advanced&color=61DAFB)
 
 ### Redux <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux Logo" width="20" height="20">
-![Redux](https://progress-bar.dev/85/?title=Advanced&color=764ABC)
+![Redux](https://progress-bar.dev/40/?title=Intermediate&color=764ABC)
 
 ### Next.js <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="20" height="20">
-![Next.js](https://progress-bar.dev/80/?title=Intermediate&color=000000)
+![Next.js](https://progress-bar.dev/50/?title=Intermediate&color=000000)
 
 ### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
-![TypeScript](https://progress-bar.dev/85/?title=Advanced&color=3178C6)
+![TypeScript](https://progress-bar.dev/50/?title=Intermediate&color=3178C6)
 
 ## 💼 Where to Find Me
 
