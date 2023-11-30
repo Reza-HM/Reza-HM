@@ -53,7 +53,7 @@ I'm a passionate frontend developer with experience building responsive and user
 ### Redux <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux Logo" width="20" height="20">
 ![Redux](https://progress-bar.dev/40/?title=Developing&color=764ABC)
 
-### Next.js <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg](https://images.app.goo.gl/XSFswwvThZ1GVQBt8" alt="Next.js Logo" width="20" height="20">
+### Next.js <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" alt="Next.js Logo" width="20" height="20">
 ![Next.js](https://progress-bar.dev/50/?title=Developing&color=000000)
 
 ### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
