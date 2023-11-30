@@ -19,7 +19,7 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### 📊 Statistics of My Account
 
-![Reza Hamzei's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=radical)
+[![Reza-Hamzei's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
