@@ -25,20 +25,78 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ### 🥇 Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/reza-hm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✌ My Skills
 
-- HTML: 100% ![100%](https://progress-bar.dev/100?color=orange)
-- CSS: 90% ![90%](https://progress-bar.dev/90?color=blue)
-- JavaScript: 70% ![70%](https://progress-bar.dev/70?color=yellow)
-- Tailwind CSS: 100% ![100%](https://progress-bar.dev/100?color=navy)
-- SASS: 60% ![100%](https://progress-bar.dev/100?color=pink)
-- BootStrap: 100% ![100%](https://progress-bar.dev/100?color=purple)
-- React: 60% ![50%](https://progress-bar.dev/50?color=blue)
-- Redux: 40% ![50%](https://progress-bar.dev/50?color=purple)
-- Next.js: 50% ![50%](https://progress-bar.dev/50?color=black)
-- TypeScript: 50% ![50%](https://progress-bar.dev/50?color=blue)
+<details>
+  <summary>:orange_heart: HTML</summary>
+  
+  <img src="https://progress-bar.dev/100/?title=html&color=E34F26" alt="HTML progress bar" />
+
+</details>
+<details>
+  <summary>:blue_heart: CSS</summary>
+
+  <img src="https://progress-bar.dev/90/?title=css&color=1572B6" alt="CSS progress bar" />
+  
+</details>  
+
+<details>
+  <summary>:art: Tailwind CSS</summary>
+
+  <img src="https://progress-bar.dev/100/?title=tailwindcss&color=38bdf8" alt="TailwindCSS progress bar" />  
+
+</details>
+<details>
+  <summary>:purple_heart: BootStrap</summary>
+
+  <img src="https://progress-bar.dev/100/?title=bootstrap&color=7952B3" alt="BootStrap progress bar" />  
+
+</details>
+<details>
+  <summary>:art: SASS</summary>
+  
+  <img src="https://progress-bar.dev/60/?title=html&color=CC6699" alt="SASS progress bar" />
+
+</details>
+<details>
+  <summary>:zap: Javascript</summary>
+
+  <img src="https://progress-bar.dev/70/?title=javascript&color=yellow" alt="Javascript progress bar" />
+
+</details>
+
+<details>
+  <summary>:atom_symbol: React</summary>
+  
+  <img src="https://progress-bar.dev/60/?title=react&color=61dafb" alt="React progress bar" />
+
+</details>
+
+<details>
+  <summary>:purple_heart: Redux</summary>
+  
+  <img src="https://progress-bar.dev/40/?title=html&color=764ABC" alt="Redux progress bar" />
+
+</details>
+<details>
+  <summary>:rocket: Next JS</summary>
+  
+  <img src="https://progress-bar.dev/50/?title=nextjs&color=000000" alt="NextJS progress bar" />
+
+</details> 
+
+
+
+
+<details>
+  <summary>:ocean: TypeScript</summary>
+  
+  <img src="https://progress-bar.dev/50/?title=html&color=3178C6" alt="TypeScript progress bar" />
+
+</details>
+
 
 ### 💼 Where to Find Me
 
