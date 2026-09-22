@@ -1,84 +1,49 @@
 # Hi there 👋, I'm Reza Hamzei
-## 👨‍💻 Frontend Developer
+## Full-Stack Web Developer
 
-I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.
-
+I build production web applications end to end — from React/Next.js frontends and reusable component systems down to Node.js/NestJS services and the databases behind them. These days I also lean heavily on AI tooling to move faster without cutting corners on quality.
 
 ## 🧰 Languages & Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-## 📊 Statistics of My Account
+## 📊 GitHub Stats
 
 ![Reza-HM's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=tokyonight)
 
-
-
-## 🥇 Top Languages Used
+## 🥇 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hm&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✌ My Skills
+## 🔭 What I Work On
 
-### HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="20" height="20"> 
-![HTML](https://progress-bar.dev/95/?title=Expert&color=E34F26)
+- **Frontend architecture** — reusable component libraries (tables, forms, selects) built for scale and consistency across large React/TypeScript codebases
+- **Full-stack features** — from Next.js UI down to Express/NestJS APIs and SQL/NoSQL data layers
+- **Internal tooling** — integrations with platforms like GitLab and Matrix/Element to streamline team workflows
+- **AI-assisted development** — using AI coding tools daily as part of my regular workflow, from scaffolding to debugging to code review
 
-### CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="20" height="20">
-![CSS](https://progress-bar.dev/90/?title=Expert&color=1572B6)
+## 💡 How I Work
 
-### Tailwind CSS <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" width="20" height="20">
-![Tailwind CSS](https://progress-bar.dev/90/?title=Expert&color=38B2AC)
-
-### Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="20" height="20">
-![Bootstrap](https://progress-bar.dev/90/?title=Expert&color=7952B3)
-
-### SASS <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS Logo" width="20" height="20">
-![SASS](https://progress-bar.dev/70/?title=Skilled&color=CC6699)
-
-### JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="20" height="20">
-![JavaScript](https://progress-bar.dev/70/?title=Skilled&color=F7DF1E)
-
-### React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">
-![React](https://progress-bar.dev/60/?title=Skilled&color=61DAFB)
-
-### Redux <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux Logo" width="20" height="20">
-![Redux](https://progress-bar.dev/40/?title=Developing&color=764ABC)
-
-### Next.js <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" alt="Next.js Logo" width="20" height="20">
-![Next.js](https://progress-bar.dev/50/?title=Developing&color=000000)
-
-### TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" height="20">
-![TypeScript](https://progress-bar.dev/50/?title=Developing&color=3178C6)
+I care about clean architecture, predictable state management, and components that don't need to be reinvented every time a new feature comes along. I use AI tools deliberately — as a force multiplier for speed and exploration, not a replacement for understanding the code I ship.
 
 ## 💼 Where to Find Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rezahm_96)    
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rezahm_96)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-
-I'm always open to new opportunities!  
-
-Let me know if you have any projects you need help with.
-<!--
-**Reza-HM/Reza-HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to new opportunities — feel free to reach out if you have a project you'd like help with.
